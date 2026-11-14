@@ -80,3 +80,8 @@ Vercel/Netlify에서는 빌드 명령을 `npm run build`, 배포 폴더를 `dist
 - 출신 고교 유형별 상세 열 분석
 - PowerPoint 자동 생성
 - FastAPI 또는 Node.js 백엔드 연동
+
+
+## 배포
+
+Vercel, Netlify, Render, Docker 배포 방법은 [`DEPLOYMENT.md`](./DEPLOYMENT.md)를 참고하세요.
